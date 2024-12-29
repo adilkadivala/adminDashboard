@@ -8,7 +8,7 @@ const MainAr = () => {
       <Routes>
         <Route
           exact
-          path="/admin"
+          path="/"
           element={
             <>
               <Main />
